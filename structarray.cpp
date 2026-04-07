@@ -12,4 +12,7 @@ int main()
 {
     //Deklarasi variabel struct
     Orang mhs;
+    //Mengisi data
+    cout << "Isikan data nama : ";
+    cin >> mhs.nama;
 }
