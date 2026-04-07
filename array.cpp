@@ -41,4 +41,8 @@ int main()
         cout << "Isikan data ke-" << (i + 1) << " : ";
         cin >> datamu [i];
     }
+    cout << endl;
+
+    cout << "Tampil Data Array Menggunakan For" << endl;
+    //Menampilkan data dengan perulangan
 }
