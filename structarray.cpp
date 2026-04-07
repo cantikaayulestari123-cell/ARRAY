@@ -15,4 +15,13 @@ int main()
     //Mengisi data
     cout << "Isikan data nama : ";
     cin >> mhs.nama;
+    cout << "Isikan data alamat : ";
+    cin >> mhs.alamat;
+    cout <<  "Isikan data umur : ";
+    cout << endl;
+
+    cout << "Data Tampil" << endl;
+    cout << "Nama : ";
+    cout << "Alamat : ";
+    cout << "Umur : ";
 }
